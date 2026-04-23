@@ -2,3 +2,8 @@ git add -A
 git commit -m "demo update"
 git push
 ---> USE ABOVE COMMANDS AFTER EVERY WORK SESSION TO UPDATE TO GITHUB!!
+
+git clone https://github.com/HarshalKansara08/ParticleSim.git
+cd ParticleSim
+code .
+---> TO PULL REPO
