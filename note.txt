@@ -1,4 +1,4 @@
 git add -A
-git commit -m "what you did"
+git commit -m "demo update"
 git push
 ---> USE ABOVE COMMANDS AFTER EVERY WORK SESSION TO UPDATE TO GITHUB!!
